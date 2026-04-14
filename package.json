@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://poojav3690.github.io/Demomart",
+  "homepage": "./",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
