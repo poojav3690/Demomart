@@ -35,7 +35,7 @@ export const products = [
     category: "Women",
     subcategory: "Active wear",
     price: 45.00,
-    image: "/Flexi-Yoga Leggings.jpg",
+    image: "https://raw.githubusercontent.com/poojav3690/Demomart/refs/heads/main/public/Flexi-Yoga%20Leggings.jpg",
     description: "Seamless, high-waisted leggings with zero gravity feel."
   },
   {
@@ -64,7 +64,7 @@ export const products = [
     category: "Kids",
     subcategory: "Active wear",
     price: 19.99,
-    image: "/Junior Sprint Shorts.jpg",
+    image: "https://raw.githubusercontent.com/poojav3690/Demomart/refs/heads/main/public/Junior%20Sprint%20Shorts.jpg",
     description: "Breathable mesh shorts for active play."
   },
   {
@@ -73,7 +73,7 @@ export const products = [
     category: "Kids",
     subcategory: "Casuals",
     price: 29.99,
-    image: "/Cozy Cotton Hoodie.jpg",
+    image: "https://raw.githubusercontent.com/poojav3690/Demomart/refs/heads/main/public/Cozy%20Cotton%20Hoodie.jpg",
     description: "Soft brushed fleece hoodie for maximum comfort."
   },
 
@@ -93,7 +93,7 @@ export const products = [
     category: "Accessories",
     subcategory: "Formals",
     price: 39.99,
-    image: "/Classic Leather Belt.jpg",
+    image: "https://raw.githubusercontent.com/poojav3690/Demomart/refs/heads/main/public/Classic%20Leather%20Belt.jpg",
     description: "Genuine full-grain leather with a polished buckle."
   }
 ];
